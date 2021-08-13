@@ -1,6 +1,11 @@
-# wordpair
+# Success-Mantras
 
-A new Flutter project.
+A Flutter project that shows an infinitely scrollable list of motivational quotes, using the mantras library.
+
+## To run the application
+
+$ dart --no-sound-null-safety run
+$ flutter run --no-sound-null-safety
 
 ## Getting Started
 
